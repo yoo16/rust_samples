@@ -1,0 +1,21 @@
+{
+  "name": "rust_samples",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "wasm-pack build --target web --out-dir ./public/pkg",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoo16/rust_samples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoo16/rust_samples/issues"
+  },
+  "homepage": "https://github.com/yoo16/rust_samples#readme",
+  "description": ""
+}
